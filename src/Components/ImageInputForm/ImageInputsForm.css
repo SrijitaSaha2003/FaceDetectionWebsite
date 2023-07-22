@@ -1,0 +1,10 @@
+button{
+    color: white;
+    font-weight: 525;
+    background: rgb(251,0,115);
+    background: linear-gradient(90deg, rgba(251,0,115,1) 0%, rgba(0,26,255,1) 82%, rgba(12,29,181,1) 97%);
+    border:1px solid black;
+}
+button:hover{
+   transform: scale(1.05);
+}

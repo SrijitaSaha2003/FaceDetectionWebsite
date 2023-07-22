@@ -1,0 +1,11 @@
+.tilt__new{
+    /*
+    background: rgb(215,254,255);
+    background: linear-gradient(90deg, rgba(215,254,255,1) 0%, rgba(62,80,241,1) 82%);
+    */
+    background: rgb(251,0,115);
+    background: linear-gradient(90deg, rgba(251,0,115,1) 0%, rgba(0,26,255,1) 82%, rgba(12,29,181,1) 97%);
+}
+img{
+    height: 100%;
+}
