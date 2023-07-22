@@ -8,13 +8,7 @@ import ParticlesBg from 'particles-bg';
    
 
 const returnClarifaiRequestOptions=(imageUrl)=>{
-  ///////////////////////////////////////////////////////////////////////////////////////////////////
-    // In this section, we set the user authentication, user and app ID, model details, and the URL
-    // of the image we want as an input. Change these strings to run your own example.
-    //////////////////////////////////////////////////////////////////////////////////////////////////
   
-  // Your PAT (Personal Access Token) can be found in the portal under Authentification
-  //const PAT = '52790c813b904c39a5aabf43dd677f8a';
   const REACT_APP_PAT=process.env.REACT_APP_PAT;
   // Specify the correct user_id/app_id pairings
   // Since you're making inferences outside your app's scope
